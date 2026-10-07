@@ -23,6 +23,7 @@ Personal portfolio website for Ravi Patidar, showcasing projects, skills, experi
 | ResumeMate AI | [Open app](https://project-resumate-ai.vercel.app/) | [GitHub](https://github.com/ravipatidar11/Project-ResuMate-Ai-) |
 | Apex AI | [Open app](https://project-apex-ai-frontend.vercel.app/) | [GitHub](https://github.com/ravipatidar11/Project-Apex-Ai) |
 | Punjabi-Tadka | [Open app](https://panjabi-tadka.vercel.app/) | [GitHub](https://github.com/ravipatidar11/Panjabi-Tadka) |
+| BharatLearn | [Open app](https://project-bharat-learn.vercel.app/) | [GitHub](https://github.com/ravipatidar11/Project-BharatLearn) |
 
 ## Project files
 
